@@ -2,7 +2,7 @@
 Eu sou a Pamela Tenorio, gosto muito de tecnologia.
 <br>
 estou aprendendo a mecher no Github:octocat:.
-atualmente eu estou cursando o DEVCLUB e faço faculdade de  Analise e Desenvolvimento de Sistemas.
+atualmente eu estou cursando o DEVCLUB <br>e faço faculdade de  Analise e Desenvolvimento de Sistemas.
 meu objetivo é bem simples , evoluir profissionalmente na area de tecnologia e  evoluir pessoalmente tbm. gosto de  desafios e gosto mais ainda quando os supero.
 <br>
 estou estudando as seguintes tecnologias :
