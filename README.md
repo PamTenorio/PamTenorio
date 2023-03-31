@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d88c9a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Pamela+Helena;Eu+tenho+28+Anos;Eu+sou+Brasileira;Faço+Analise+e+Desenvolvimento+de+Sistemas;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  
+  <br><br>
 :stuck_out_tongue_winking_eye: :cherry_blossom:
 <br>  <br>
 <div> estou aprendendo a mecher no Github:octocat:.
