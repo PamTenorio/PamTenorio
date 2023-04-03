@@ -31,7 +31,7 @@ ESTOU APRENDENDO AS SEGUINTES TECNOLOGIAS:
 </div>
   
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pamelatenorio&bg_color=0d1117&color=c45f71&line=ce8d99&point=e4405f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pamtenorio&bg_color=0d1117&color=c45f71&line=ce8d99&point=e4405f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
   
