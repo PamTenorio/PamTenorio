@@ -30,12 +30,7 @@ ESTOU APRENDENDO AS SEGUINTES TECNOLOGIAS:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamtenorio&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
   
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pamtenorio&bg_color=0d1117&color=c45f71&line=ce8d99&point=e4405f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  
-  
-  
+   
   
   
   <div align="center">
