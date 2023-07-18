@@ -38,5 +38,6 @@ ESTOU APRENDENDO AS SEGUINTES TECNOLOGIAS:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Pamtenorio}/count.svg" /></p> 
 <br>
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pamtenorio&bg_color=000000&color=ffffff&line=cd236d&point=c12adf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9184a&height=120&section=footer"/>
