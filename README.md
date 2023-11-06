@@ -1,16 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9184a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d88c9a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Pamela+Helena;Eu+tenho+28+Anos;Eu+sou+Brasileira;Faço+Analise+e+Desenvolvimento+de+Sistemas;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d88c9a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Pamela+Helena;Eu+tenho+29+Anos;Sou+Brasileira;Faço+Programação+Full+Stack-PRO+no+Dev+Club;Sejam+Muito+Bem+Vindos!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <br><br>
 :stuck_out_tongue_winking_eye: :cherry_blossom:
 <br>  <br>
-<div> estou aprendendo a mecher no Github:octocat:.
-atualmente eu estou cursando o DEVCLUB <br>e faço faculdade de  Analise e Desenvolvimento de Sistemas.
-meu objetivo é bem simples , evoluir profissionalmente na area de tecnologia e  evoluir pessoalmente tbm. gosto de  desafios e gosto mais ainda quando os supero.</div>
+<div> :octocat:
+Olá, meu nome é Pamela, atualmente atuo na área de vendas (loja em shopping), mas não é o que desejo pra mim, gosto muito de Tecnologia e busco nessa área me capacitar cada dia mais ,atualmente faço um curso profissionalizante de Programador(a) Full Stack PRO- DEVCLUB que por sinal estou amando e aprendendo muito. vi na programação uma oportunidade de melhorar a qualidade de vida, não só a minha mais a da minha família também. busco me capacitar cada dia mais e gosto de aprender novas coisas. estou em transição de carreira, sei que não é fácil mais vou seguir em frente mesmo assim .
+na formação Full Stack PRO, já aprendi sobre HTML, CSS , JAVASCRIPT, GIT E GITHUB.
+as tecnologias que vamos estudar tbm são : Nodejs, React, TypeScript, Soft Skills, javascript avançado, css avançado. entre outras ferramentas.
+sou uma Mulher com facilidade de trabalhar em equipe, esforçada e responsável, em busca do seu primeiro SIM, enquanto isso estudo e me aprimoro cada dia mais.
+prazer essa sou eu ☺️
+</div>
 <br>
-ESTOU APRENDENDO AS SEGUINTES TECNOLOGIAS:
+ESTUDO AS SEGUINTES TECNOLOGIAS:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"  height="35px">
